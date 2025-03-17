@@ -16,7 +16,7 @@ This project fetches and displays information about all coins offered by the exc
 
 1. Clone the repository:  
    bash
-   git clone https://github.com/YourUsername/YourRepoName.git
+   git clone https://github.com/Pavannrajj/BlockChain.git
    cd YourRepoName
 
 2. Install dependencies: 
